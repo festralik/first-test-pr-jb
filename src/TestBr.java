@@ -15,4 +15,8 @@ public class TestBr {
     public int test3(int a){
         return a;
     }
+
+    public int test2(int a){
+        return a;
+    }
 }
